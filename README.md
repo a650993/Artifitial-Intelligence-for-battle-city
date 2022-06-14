@@ -1,20 +1,13 @@
 # Artifitial Intelligence Battle City
 Tntroduction
 --------
-
-Battle City is a multi-directional shooter video game for
-the Family Computer produced and published in 1985 by
-Namco.  
-It is the first game that allows 2 players to dual at
-the same time.  
-The player controls a tank and the goal is
-to eliminate a fixed number of the enemy tanks and prevent
-our castle form destroyed by enemy.  
-We want to set an ai
-agent to let ai play the game by itself to see whether the
-performance is well.But how do we implement a way?  
-In this project, we use various route-finding algorithms to help
-ai decides forwarding directions more wisely.
+![image](https://github.com/a650993/Artifitial-Intelligence-for-battle-city/blob/main/battle%20city.png)  
+Battle City is a multi-directional shooter video game for the Family Computer produced and published in 1985 by Namco.  
+It is the first game that allows 2 players to dual at the same time.  
+The player controls a tank and the goal is to eliminate a fixed number of the enemy tanks and prevent our castle form destroyed by enemy.  
+We want to set an ai agent to let ai play the game by itself to see whether the performance is well.  
+But how do we implement a way?  
+In this project, we use various route-finding algorithms to help ai decides forwarding directions more wisely.  
 
 
 requirement of environment to run 
