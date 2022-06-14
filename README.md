@@ -39,10 +39,10 @@ def heuristic(self, a, b):
 
 |         |林秉          |林哲安  |張嘉文  |
 | ------------- |:-------------:| :-----:|:-----:|
-| Brainstorming      |  33.3%     | 33.3% | 33.3% |
-| Latex Report      | 35%      |    35% |   30%|
-| Coding  | 25%      |    60% |15% |
+| Idea and discussion      |  33.3%     | 33.3% | 33.3% |
+| Report      | 35%      |    35% |   30%|
 | Data Collection   | 40%   | 30% | 30% |
+| Coding  | 25%      |    60% |15% |
 | Video Recording       | 35%    | 50% | 15% |
 | Result discussion and improvement | 25%      | 60% | 15% |
 
