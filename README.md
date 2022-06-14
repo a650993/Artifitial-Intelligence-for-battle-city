@@ -35,10 +35,14 @@ change the following code in ai.py file:
 def heuristic(self, a, b):  
     return self.#function name#(a, b)  
     
-contribution
--------
-林秉: setting of game environment, report: Introduction  
-林哲安: BFS, UCS, heuristic_fun, report: Experiment  
-張嘉文: DFS, report: Methodology  
-complete together: video present, other details of project
+## Contributions
+
+|         |林秉          |林哲安  |張嘉文  |
+| ------------- |:-------------:| :-----:|:-----:|
+| Brainstorming      |  33.3%     | 33.3% | 33.3% |
+| Latex Report      | 40%      |    40% |   20%|
+| Coding  | 25%      |    60% |15% |
+| Data Collection   | 40%   | 30% | 30% |
+| Video Recording       | 35%    | 50% | 15% |
+| Result discussion and improvement | 10%      | 80% | 10% |
 
