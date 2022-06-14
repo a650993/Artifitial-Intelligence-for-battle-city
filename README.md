@@ -44,5 +44,5 @@ def heuristic(self, a, b):
 | Coding  | 25%      |    60% |15% |
 | Data Collection   | 40%   | 30% | 30% |
 | Video Recording       | 35%    | 50% | 15% |
-| Result discussion and improvement | 20%      | 60% | 20% |
+| Result discussion and improvement | 25%      | 60% | 15% |
 
