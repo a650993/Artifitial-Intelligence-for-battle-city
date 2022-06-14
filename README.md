@@ -13,7 +13,7 @@ In this project, we use various route-finding algorithms to help ai decides forw
 requirement of environment to run 
 ------
 Python 3  
-`pip install py.game` 
+`pip install pygame` 
 
 Execution
 --------
