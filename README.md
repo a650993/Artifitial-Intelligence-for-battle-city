@@ -1,5 +1,5 @@
 # Artifitial Intelligence Battle City
-Tntroduction
+Introduction
 --------
 ![image](https://github.com/a650993/Artifitial-Intelligence-for-battle-city/blob/main/battle%20city.png)  
 Battle City is a multi-directional shooter video game for the Family Computer produced and published in 1985 by Namco.  
@@ -11,9 +11,15 @@ In this project, we use various route-finding algorithms to help ai decides forw
 
 
 requirement of environment to run 
---------
+------
 Python 3  
-pip install py.game   
+`pip install py.game` 
+
+Execution
+--------
+Run the following command to perform ai playing Battle City:      
+`python tanks.py` 
+
 
 way to test different algorithm
 --------
@@ -28,5 +34,11 @@ Heuristic function Options: manhattan_distance, euclidean_distance, chebyshev_di
 change the following code in ai.py file:  
 def heuristic(self, a, b):  
     return self.#function name#(a, b)  
-
+    
+contribution
+-------
+林秉: setting of game environment, report: Introduction  
+林哲安: BFS, UCS, heuristic_fun, report: Experiment  
+張嘉文: DFS, report: Methodology  
+complete together: video present, other details of project
 
